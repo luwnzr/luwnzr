@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/luwnzr/luwnzr/output/snake.svg" alt="Snake animation" />
+<img src=".github/workflows" alt="Snake animation" />
 
 ###
