@@ -1,10 +1,16 @@
-# ASCII Profile Card
+<h1 align="center">ASCII Profile Card</h1>
 
-A Kali-Linux-terminal-styled Neofetch profile card generator for your GitHub README. It converts your
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12+-5dc9f2?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/github/actions/workflow/status/pangeran-droid/ascii-profile-card/generate-card.yml?style=flat-square&label=build&logo=github" alt="Build">
+  <img src="https://img.shields.io/github/license/pangeran-droid/ascii-profile-card?style=flat-square&color=e8384f" alt="License">
+</p>
+
+<p align="center">A Kali-Linux-terminal-styled Neofetch profile card generator for your GitHub README. It converts your
 avatar into ASCII art (or falls back to a procedural dragon motif if you don't provide one), animates
-a typing prompt, and pulls in live GitHub stats — all rendered as a single self-contained SVG.
+a typing prompt, and pulls in live GitHub stats — all rendered as a single self-contained SVG.</p>
 
-![Example card](assets/profile.svg)
+![Example card](https://raw.githubusercontent.com/pangeran-droid/ascii-profile-card/refs/heads/main/assets/profile.svg)
 
 ## Quick start
 
@@ -225,6 +231,7 @@ and reports stats as `N/A`.
 
 ```
 .
+├── LICENSE
 ├── README.md
 ├── assets/
 │   ├── avatar.jpg              # your photo (optional)
