@@ -27,7 +27,6 @@ random.seed()
 
 LOGIN = os.environ.get("GITHUB_LOGIN", "pangeran-droid")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-# OUT_PATH = os.environ.get("OUT_PATH", "profile.svg")
 OUT_PATH = os.environ.get("OUT_PATH", "assets/profile_v2.svg")
 
 # ---------------------------------------------------------------------------
