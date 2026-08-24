@@ -12,6 +12,14 @@ a typing prompt, and pulls in live GitHub stats — all rendered as a single sel
 
 ![Example card](https://raw.githubusercontent.com/pangeran-droid/ascii-profile-card/refs/heads/main/assets/profile.svg)
 
+<details>
+<summary>ascii-profile-card v2</summary>
+<br>
+
+<img src="https://raw.githubusercontent.com/pangeran-droid/ascii-profile-card/refs/heads/main/assets/profile_v2.svg" alt="Example card V2">
+
+</details>
+
 ## Quick start
 
 This repo is a **template**, not a published Action — you fork/copy it, edit a few values, and let
