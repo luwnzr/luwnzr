@@ -30,34 +30,33 @@ OUT_PATH = os.environ.get("OUT_PATH", "assets/profile.svg")
 # Field list shown on the right, neofetch-style.
 # ---------------------------------------------------------------------------
 PROFILE_FIELDS = [
-    ("Role", "informatics student"),
-    ("Focus", "junior web developer & cybersecurity enthusiast"),
+    ("Cargo", "Suporte N1"),
+    ("Foco", "Dev web júnior"),
     ("Stack.Frontend", "html, css, javascript"),
-    ("Stack.Backend", "php, laravel, codeigniter"),
-    ("Stack.Scripting", "python"),
+    ("Stack.Backend", "Java"),
+    ("Stack.Scripting", "Python"),
     ("Stack.Database", "mysql"),
-    ("Stack.Security", "burp suite"),
-    ("Environment", "linux, git, github, vscode"),
-    ("Interests", "cybersecurity"),
+    ("Ferramentas", "git, github, vscode, windows"),
+    ("Interesse", "Dev Web"),
     ("Contact.GitHub", f"github.com/{LOGIN}"),
-    ("Contact.Telegram", "t.me/pangeran1337"),
+    ("Contact.Email", "luanegabrielly2202@gmail.com"),
 ]
 
 # ---- Kali color scheme -----------------------------------------------------
-BG_COLOR = "#0b1120"          # terminal window background (deep navy)
-TITLEBAR_COLOR = "#141c30"    # title bar strip
+BG_COLOR = "##1a0b20"          # terminal window background (deep navy)
+TITLEBAR_COLOR = "#251430"    # title bar strip
 TITLE_TEXT_COLOR = "#7f8aa6"
-ACCENT = "#5dc9f2"             # ASCII art color (light blue dots)
-HEADER_COLOR = "#e8384f"       # bold red "login@login" header + prompt user/path
+ACCENT = "#b16cff"             # ASCII art color (light blue dots)
+HEADER_COLOR = "#b16cff"       # bold red "login@login" header + prompt user/path
 LABEL_COLOR = "#ffffff"        # bold field labels
-VALUE_COLOR = "#5dc9f2"        # field values (cyan/blue)
+VALUE_COLOR = "#b16cff"        # field values (cyan/blue)
 PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff",
            "#b16cff", "#39e0d0", "#e8e8e8"]
 
 PROMPT_COMMANDS = [
-    "informatics student",
-    "junior web developer",
-    "cybersecurity enthusiast",
+    "Suporte N1",
+    "Estudante de Tecnologia",
+    "JAVA",
 ]
 PROMPT_TYPE_SPEED = 0.08
 PROMPT_DELETE_SPEED = 0.045
