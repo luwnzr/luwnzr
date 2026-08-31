@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Kali-Linux-terminal-styled neofetch profile SVG generator.
+Kali-Linux-terminal-styled neofetch profile SVG generator. 
 
 Same engine as the original script, but wrapped in a dark terminal window
 (title bar + traffic-light dots) and recolored to match the classic
